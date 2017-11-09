@@ -2,5 +2,5 @@
     "board": "esp8266:esp8266:nodemcu",
     "configuration": "CpuFrequency=80,UploadSpeed=115200,FlashSize=4M3M",
     "port": "COM5",
-    "sketch": "ESP-sc-gway.ino"
+    "sketch": "iiot.ino"
 }
